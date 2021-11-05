@@ -19,7 +19,7 @@ Note that only one function is required for this assignemnt. This is:
   * output/return: a dictionary containing the solution path and distance, and
     a list with the shortest distance found in each generation (see assign5.py) 
 
-### Optional: Each of these functions impemented is +10 pts
+### Optional: Each of these functions implemented (correctly) is +10 pts
 
 * __TSPwDynProg(W)__ 
   * input: adjacency weight matrix, W such that W[i][j] is the weight from vertex i to vertex j
