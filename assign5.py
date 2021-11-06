@@ -27,7 +27,8 @@ def adjMatFromFile(filename):
     return adjmat
 
 
-def TSPwGenAlgo(g, population_size=50, mutation_rate=0.01, explore_rate=0.5):
+def TSPwGenAlgo(g, max_num_generations=____, population_size=____,
+        mutation_rate=____, explore_rate=____):
     """ A genetic algorithm to attempt to find an optimal solution to TSP  """
 
     solution_cycle_distance = None # the distance of the final solution cycle/path
